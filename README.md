@@ -1,4 +1,4 @@
-# solar_flares_classification
+# Detecting and CLassifying Flares in High-Resolution Solar Spectra with Supervised Machine Learning
 Solar flares classification using SciKitLearn supervised ML algorithms
 
 
