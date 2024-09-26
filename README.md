@@ -30,4 +30,4 @@ To set up this project locally, you'll need to have Python installed, along with
 ```bash
 git clone https://github.com/nicolehao34/solar_flares_classification.git
 cd solar_flares_classification
-pip install -r requirements.txt  # Assuming there's a requirements.txt file
+pip install -r requirements.txt  
