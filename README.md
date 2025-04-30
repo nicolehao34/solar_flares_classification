@@ -2,6 +2,8 @@
 
 Solar flares are a well-studied aspect of solar magnetic activity. Detecting and classifying solar flares plays a crucial role in studying the impact of stellar contamination caused by flares in exoplanet transmission spectra. In this project, we present a standardized procedure to classify solar flares using supervised machine learning. Using a dataset of solar flares from the NASA database and solar spectra from HARPS-N, we trained several supervised machine learning models. The best-performing supervised learning algorithm is a C-Support Vector Machine with non-linear kernels, specifically Radial Basis Function (RBF). The best-trained model, SVC with RBF kernel, achieves an average aggregate accuracy score of 0.65 and categorical accuracy scores over 0.70 for the no flare and weak flares classes. Testing the model showed that it can detect and classify solar flares in completely new data with different characteristics and distributions from those of the training set. Future efforts could enhance classification accuracy, explore alternative models (including deep learning approaches), and incorporate additional datasets to extend such a framework to exoplanet host stars.
 
+Thank you for supporting our work! Here's the link to our paper in the Astrophysical journal: https://iopscience.iop.org/article/10.3847/1538-4357/ad5be3
+
 ---
 
 # SVM_nonlinear_3labels_experiments
