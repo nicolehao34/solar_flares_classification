@@ -6,20 +6,6 @@ Thank you for supporting our work! Here's the link to our paper in the Astrophys
 
 ---
 
-# SVM_nonlinear_3labels_experiments
-
-Trained SVM models on labeled data with three labels: no flare, weak flares, and strong flares. Initial results showed that only the no flare class was correctly classified. Further analysis was conducted to investigate the distribution of weak flare data points.
-
----
-
-# Solar Flares Classification
-
-## Introduction
-
-This project focuses on the classification of solar flares using various data analysis and machine learning techniques. The goal is to predict the category of solar flares based on observational data.
-
----
-
 ## Project Structure
 
 Here is an overview of the key files, directories, and their primary functions:
